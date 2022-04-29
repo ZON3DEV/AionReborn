@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spawns xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<spawn_map map_id="300500000">
+		<!-- Extradimensional Void Exit -->
+		<spawn npc_id="730632">
+			<spot x="268.033" y="246.175" z="124.942" h="62"/>
+		</spawn>
+		<!-- Israphel -->
+		<spawn npc_id="800365">
+			<spot x="250.165" y="244.799" z="124.942" h="4"/>
+		</spawn>
+	</spawn_map>
+</spawns>

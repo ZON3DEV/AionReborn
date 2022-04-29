@@ -1,0 +1,381 @@
+2022-04-29 22:09:43,559 INFO  [main] com.aionemu.gameserver.GameServer [GameServer.java:424] JavaAgent [Callback Support] is configured.
+2022-04-29 22:09:43,621 INFO  [main] org.quartz.impl.StdSchedulerFactory [StdSchedulerFactory.java:1208] Using default implementation for ThreadExecutor
+2022-04-29 22:09:43,637 INFO  [main] org.quartz.core.SchedulerSignalerImpl [SchedulerSignalerImpl.java:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2022-04-29 22:09:43,637 INFO  [main] org.quartz.core.QuartzScheduler [QuartzScheduler.java:229] Quartz Scheduler v.2.3.0-SNAPSHOT created.
+2022-04-29 22:09:43,637 INFO  [main] org.quartz.simpl.RAMJobStore [RAMJobStore.java:155] RAMJobStore initialized.
+2022-04-29 22:09:43,637 INFO  [main] org.quartz.core.QuartzScheduler [QuartzScheduler.java:294] Scheduler meta-data: Quartz Scheduler (v2.3.0-SNAPSHOT) 'QuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 1 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2022-04-29 22:09:43,637 INFO  [main] org.quartz.impl.StdSchedulerFactory [StdSchedulerFactory.java:1362] Quartz scheduler 'QuartzScheduler' initialized from an externally provided properties instance.
+2022-04-29 22:09:43,637 INFO  [main] org.quartz.impl.StdSchedulerFactory [StdSchedulerFactory.java:1366] Quartz scheduler version: 2.3.0-SNAPSHOT
+2022-04-29 22:09:43,637 INFO  [main] org.quartz.core.QuartzScheduler [QuartzScheduler.java:547] Scheduler QuartzScheduler_$_NON_CLUSTERED started.
+2022-04-29 22:09:43,637 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:47] Loading: mygs.properties
+2022-04-29 22:09:43,637 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:50] No override properties found
+2022-04-29 22:09:43,684 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:60] Loading: ./config/administration/admin.properties
+2022-04-29 22:09:43,684 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:62] Loading: ./config/administration/developer.properties
+2022-04-29 22:09:43,700 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:72] Loading: ./config/main/advcustom.properties
+2022-04-29 22:09:43,700 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:74] Loading: ./config/main/ai.properties
+2022-04-29 22:09:43,700 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:76] Loading: ./config/main/autogroup.properties
+2022-04-29 22:09:43,700 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:78] Loading: ./config/main/broker.properties
+2022-04-29 22:09:43,700 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:80] Loading: ./config/main/cache.properties
+2022-04-29 22:09:43,700 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:82] Loading: ./config/main/cleaning.properties
+2022-04-29 22:09:43,700 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:84] Loading: ./config/main/commons.properties
+2022-04-29 22:09:43,700 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:86] Loading: ./config/main/craft.properties
+2022-04-29 22:09:43,715 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:88] Loading: ./config/main/custom.properties
+2022-04-29 22:09:43,715 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:90] Loading: ./config/main/drop.properties
+2022-04-29 22:09:43,715 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:92] Loading: ./config/main/dualbox.properties
+2022-04-29 22:09:43,715 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:94] Loading: ./config/main/enchants.properties
+2022-04-29 22:09:43,715 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:96] Loading: ./config/main/eternity.properties
+2022-04-29 22:09:43,715 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:98] Loading: ./config/main/events.properties
+2022-04-29 22:09:43,731 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:100] Loading: ./config/main/eventsystem.properties
+2022-04-29 22:09:43,731 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:102] Loading: ./config/main/falldamage.properties
+2022-04-29 22:09:43,731 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:104] Loading: ./config/main/gameserver.properties
+2022-04-29 22:09:43,731 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:106] Loading: ./config/main/geodata.properties
+2022-04-29 22:09:43,731 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:108] Loading: ./config/main/group.properties
+2022-04-29 22:09:43,746 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:110] Loading: ./config/main/housing.properties
+2022-04-29 22:09:43,746 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:112] Loading: ./config/main/html.properties
+2022-04-29 22:09:43,746 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:114] Loading: ./config/main/ingameshop.properties
+2022-04-29 22:09:43,746 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:116] Loading: ./config/main/legion.properties
+2022-04-29 22:09:43,746 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:118] Loading: ./config/main/logging.properties
+2022-04-29 22:09:43,746 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:120] Loading: ./config/main/membership.properties
+2022-04-29 22:09:43,746 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:122] Loading: ./config/main/name.properties
+2022-04-29 22:09:43,746 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:124] Loading: ./config/main/periodicsave.properties
+2022-04-29 22:09:43,762 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:126] Loading: ./config/main/playertransfer.properties
+2022-04-29 22:09:43,762 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:128] Loading: ./config/main/prices.properties
+2022-04-29 22:09:43,762 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:130] Loading: ./config/main/punishment.properties
+2022-04-29 22:09:43,762 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:132] Loading: ./config/main/ranking.properties
+2022-04-29 22:09:43,762 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:134] Loading: ./config/main/rates.properties
+2022-04-29 22:09:43,762 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:136] Loading: ./config/main/returnscrolls.properties
+2022-04-29 22:09:43,777 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:138] Loading: ./config/main/security.properties
+2022-04-29 22:09:43,777 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:140] Loading: ./config/main/shutdown.properties
+2022-04-29 22:09:43,777 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:142] Loading: ./config/main/siege.properties
+2022-04-29 22:09:43,777 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:144] Loading: ./config/main/thread.properties
+2022-04-29 22:09:43,777 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:146] Loading: ./config/main/veteran.properties
+2022-04-29 22:09:43,777 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:148] Loading: ./config/main/weddings.properties
+2022-04-29 22:09:43,777 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:150] Loading: ./config/main/wordfilter.properties
+2022-04-29 22:09:43,777 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:152] Loading: ./config/main/world.properties
+2022-04-29 22:09:43,777 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:162] Loading: ./config/network/database.properties
+2022-04-29 22:09:43,777 INFO  [main] com.aionemu.gameserver.configs.Config [Config.java:165] Loading: ./config/network/network.properties
+2022-04-29 22:09:44,152 INFO  [main] com.aionemu.commons.database.DatabaseFactory [DatabaseFactory.java:124] Successfully connected to database
+2022-04-29 22:09:46,637 INFO  [main] com.aionemu.commons.database.dao.DAOManager [DAOManager.java:77] Loaded 55 DAO implementations.
+2022-04-29 22:09:46,668 INFO  [main] com.aionemu.gameserver.utils.ThreadPoolManager [ThreadPoolManager.java:79] ThreadPoolManager: Initialized with 16 scheduler, 8 instant, 0 long running, and forking 0 thread(s).
+2022-04-29 22:09:46,668 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [DataManager.java:137] *** Start Loading Static Data 4.3 ***
+2022-04-29 22:09:56,243 INFO  [main] com.aionemu.gameserver.services.MotionLoggingService [MotionLoggingService.java:486] MotionLoggingService started.
+2022-04-29 22:09:58,336 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:210] Loaded world maps data: 176 maps
+2022-04-29 22:09:58,336 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:211] Loaded 33 material ids
+2022-04-29 22:09:58,336 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:212] Loaded weather for 29 maps
+2022-04-29 22:09:58,336 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:213] Loaded player exp table: 66 levels
+2022-04-29 22:09:58,336 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:214] Loaded 640 player stat templates
+2022-04-29 22:09:58,336 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:215] Loaded 35 absolute stat templates
+2022-04-29 22:09:58,336 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:216] Loaded 417 summon stat templates
+2022-04-29 22:09:58,336 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:217] Loaded 1 item cleanup entries
+2022-04-29 22:09:58,336 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:218] Loaded 86440 item templates
+2022-04-29 22:09:58,336 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:219] Loaded 339 item bonus templates
+2022-04-29 22:09:58,336 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:220] Loaded 4771 bonus item group templates and 786 pet food items
+2022-04-29 22:09:58,336 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:221] Loaded 45358 npc templates
+2022-04-29 22:09:58,336 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:222] Loaded 12 system mail templates
+2022-04-29 22:09:58,336 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:223] Loaded 3829 npc shout templates
+2022-04-29 22:09:58,336 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:224] Loaded 215 pet templates 33 food flavours
+2022-04-29 22:09:58,336 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:225] Loaded 31 pet doping templates
+2022-04-29 22:09:58,336 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:226] Loaded 6 initial player templates
+2022-04-29 22:09:58,336 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:227] Loaded 1396 trade lists
+2022-04-29 22:09:58,336 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:228] Loaded 297 npc teleporter templates
+2022-04-29 22:09:58,336 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:229] Loaded 266 teleport locations
+2022-04-29 22:09:58,336 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:230] Loaded 10435 skill templates
+2022-04-29 22:09:58,336 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:231] Loaded 74 skill charge entries
+2022-04-29 22:09:58,336 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:232] Loaded 294 motion times
+2022-04-29 22:09:58,336 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:233] Loaded 11872 skill learn entries
+2022-04-29 22:09:58,336 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:234] Loaded 7 cube expand entries
+2022-04-29 22:09:58,336 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:235] Loaded 146 warehouse expand entries
+2022-04-29 22:09:58,336 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:236] Loaded 114 bind point entries
+2022-04-29 22:09:58,336 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:237] Loaded 7015 quest data entries
+2022-04-29 22:09:58,336 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:238] Loaded 756 gatherable entries
+2022-04-29 22:09:58,336 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:239] Loaded 272 title entries
+2022-04-29 22:09:58,336 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:240] Loaded 6419 walker routes
+2022-04-29 22:09:58,336 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:241] Loaded 4257 zone entries
+2022-04-29 22:09:58,336 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:242] Loaded 2970 goodslist entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:243] Loaded 536 tribe relation entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:244] Loaded 11550 recipe entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:245] Loaded 184 chest locations
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:246] Loaded 73 static door locations
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:247] Loaded 382 item set entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:248] Loaded 18 npc factions
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:249] Loaded 12026 npc skill list entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:250] Loaded 23 pet skill list entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:251] Loaded 72 siege location entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:252] Loaded 2 vortex entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:253] Loaded 36 rift entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:254] Loaded 27 base entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:255] Loaded 70 fly ring entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:256] Loaded 9 shield entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:257] Loaded 215 pet entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:258] Loaded 99 guide entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:259] Loaded 18 road entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:260] Loaded 119 instance cooltime entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:261] Loaded 2539 decomposable items entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:262] Loaded 59 ai templates
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:263] Loaded 273 flypath templates
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:264] Loaded 10 windstream entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:265] Loaded 23 assembled npcs entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:266] Loaded 366 cosmetic items entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:267] Loaded 103 auto group entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:268] Loaded 126 spawn maps entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:269] Loaded 4 active events
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:270] Loaded 52 skill panel entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:271] Loaded 14 instance Buffs entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:272] Loaded 1452 housing object entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:273] Loaded 62 ride info entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:274] Loaded 135 instance exit entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:275] Loaded 389 portal loc entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:276] Loaded 516 portal templates2 entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:277] Loaded 20 housing lands
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:278] Loaded 9 house building styles
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:279] Loaded 286 house parts
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:280] Loaded 3096 house spawns
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:281] Loaded 19 house default scripts
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:282] Loaded 10 curing Objects entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:283] Loaded 52 assembly items entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:284] Loaded 120 challenge tasks entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:285] Loaded 2 serialKiller entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:286] Loaded 2951 town spawns
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:287] Loaded 1 tvt Positions
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:288] Loaded 24 abyss race bonus entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:289] Loaded 258 custom npc drop data
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:290] Loaded 13 world buff map entries
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:291] Loaded 6 f14 events
+2022-04-29 22:09:58,352 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [StaticData.java:292] Loaded 12 battleground templates
+2022-04-29 22:09:59,117 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [NpcDropData.java:186] Drop loader: Npc drops loading done.
+2022-04-29 22:09:59,117 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [DataManager.java:235] [STATIC DATA loaded in: 11 seconds] 
+2022-04-29 22:09:59,117 INFO  [main] com.aionemu.gameserver.dataholders.DataManager [DataManager.java:236] *** End Loading Static Data 4.3 ***
+2022-04-29 22:09:59,352 INFO  [main] com.aionemu.gameserver.utils.idfactory.IDFactory [IDFactory.java:81] IDFactory: 202 id's used.
+2022-04-29 22:09:59,367 INFO  [main] com.aionemu.gameserver.world.zone.ZoneService [ZoneService.java:141] Zone engine load started
+2022-04-29 22:09:59,711 INFO  [main] com.aionemu.gameserver.world.zone.ZoneService [ZoneService.java:152] Loaded 5 zone handlers.
+2022-04-29 22:09:59,727 INFO  [main] com.aionemu.gameserver.world.geo.GeoService [GeoService.java:48] Configured Geo type: GEO_MESHES
+2022-04-29 22:09:59,727 INFO  [main] com.aionemu.gameserver.world.geo.RealGeoData [RealGeoData.java:83] Loading meshes..
+2022-04-29 22:10:04,019 INFO  [main] com.aionemu.gameserver.world.geo.RealGeoData [RealGeoData.java:54] Loading geo maps..
+2022-04-29 22:10:10,199 INFO  [main] com.aionemu.gameserver.world.geo.RealGeoData [RealGeoData.java:47] Geodata: 176 geo maps loaded!
+2022-04-29 22:10:12,433 INFO  [main] com.aionemu.gameserver.world.World [World.java:101] World: 176 worlds map created.
+2022-04-29 22:10:12,433 INFO  [main] com.aionemu.gameserver.services.drop.DropRegistrationService [DropRegistrationService.java:80] Drops Initialized...
+2022-04-29 22:10:12,558 INFO  [main] com.aionemu.gameserver.network.BannedHDDManager [BannedHDDManager.java:50] Loaded 0 banned hdd list.
+2022-04-29 22:10:12,652 INFO  [main] com.aionemu.gameserver.network.NetworkBannedManager [NetworkBannedManager.java:50] Loaded 0 banned ip list.
+2022-04-29 22:10:12,652 INFO  [InstantPool-4] com.aionemu.gameserver.ai2.AI2Engine [AI2Engine.java:54] AI2 engine load started
+2022-04-29 22:10:12,652 INFO  [InstantPool-1] com.aionemu.gameserver.instance.InstanceEngine [InstanceEngine.java:53] Instance engine load started
+2022-04-29 22:10:18,479 INFO  [InstantPool-1] com.aionemu.gameserver.instance.InstanceEngine [InstanceEngine.java:64] Loaded 73 instance handlers.
+2022-04-29 22:10:18,776 INFO  [InstantPool-3] com.aionemu.gameserver.services.AnnouncementService [AnnouncementService.java:106] Loaded 0 announcements
+2022-04-29 22:10:20,495 INFO  [InstantPool-4] com.aionemu.gameserver.ai2.AI2Engine [AI2Engine.java:64] Loaded 420 ai handlers.
+2022-04-29 22:10:21,729 INFO  [InstantPool-2] com.aionemu.gameserver.questEngine.QuestEngine [QuestEngine.java:1040] Quest engine load started
+2022-04-29 22:10:21,729 INFO  [InstantPool-2] com.aionemu.gameserver.questEngine.QuestEngine [QuestEngine.java:1041] Loaded 6003 quest handlers.
+2022-04-29 22:10:21,729 INFO  [main] com.aionemu.gameserver.services.BaseService [BaseService.java:49] Initializing <Bases>...
+2022-04-29 22:10:21,729 INFO  [main] com.aionemu.gameserver.services.BaseService [BaseService.java:62] Base Reset
+2022-04-29 22:10:21,807 INFO  [main] SIEGE_LOG [SiegeService.java:170] Initializing Sieges...
+2022-04-29 22:10:22,057 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 110010000 [1] : 352
+2022-04-29 22:10:22,057 INFO  [main] com.aionemu.gameserver.services.HousingService [HousingService.java:72] Loading housing data...
+2022-04-29 22:10:22,339 INFO  [main] com.aionemu.gameserver.services.HousingService [HousingService.java:75] Housing Service loaded.
+2022-04-29 22:10:22,354 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 110020000 [1] : 30
+2022-04-29 22:10:22,370 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 110070000 [1] : 61
+2022-04-29 22:10:22,401 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 120010000 [1] : 385
+2022-04-29 22:10:22,401 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 120020000 [1] : 30
+2022-04-29 22:10:22,401 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 130090000 [1] : 0
+2022-04-29 22:10:22,401 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 140010000 [1] : 0
+2022-04-29 22:10:22,417 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 120080000 [1] : 56
+2022-04-29 22:10:22,542 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 210010000 [1] : 1125
+2022-04-29 22:10:22,885 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 210020000 [1] : 6837
+2022-04-29 22:10:22,963 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 210030000 [1] : 2728
+2022-04-29 22:10:23,307 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 210040000 [1] : 8700
+2022-04-29 22:10:23,417 INFO  [main] com.aionemu.gameserver.services.HousingService [HousingService.java:140] Spawned houses 210040000 [1] : 9
+2022-04-29 22:10:23,807 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 210050000 [1] : 8399
+2022-04-29 22:10:23,823 INFO  [main] com.aionemu.gameserver.services.HousingService [HousingService.java:140] Spawned houses 210050000 [1] : 6
+2022-04-29 22:10:23,963 INFO  [pool-2-thread-4] com.aionemu.gameserver.taskmanager.AbstractPeriodicTaskManager [AbstractPeriodicTaskManager.java:41] PacketBroadcaster: Initialized.
+2022-04-29 22:10:24,104 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 210060000 [1] : 7887
+2022-04-29 22:10:24,104 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 210070000 [1] : 0
+2022-04-29 22:10:24,120 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 210080000 [1] : 0
+2022-04-29 22:10:24,198 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 220010000 [1] : 1459
+2022-04-29 22:10:24,432 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 220020000 [1] : 7904
+2022-04-29 22:10:24,479 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 220030000 [1] : 3309
+2022-04-29 22:10:24,698 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 220040000 [1] : 8626
+2022-04-29 22:10:24,713 INFO  [main] com.aionemu.gameserver.services.HousingService [HousingService.java:140] Spawned houses 220040000 [1] : 9
+2022-04-29 22:10:24,995 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 220050000 [1] : 8701
+2022-04-29 22:10:25,198 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 220070000 [1] : 8178
+2022-04-29 22:10:25,198 INFO  [main] com.aionemu.gameserver.services.HousingService [HousingService.java:140] Spawned houses 220070000 [1] : 6
+2022-04-29 22:10:25,198 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 220080000 [1] : 0
+2022-04-29 22:10:25,198 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 220090000 [1] : 0
+2022-04-29 22:10:25,198 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 300010000 [1] : 0
+2022-04-29 22:10:25,198 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 300020000 [1] : 0
+2022-04-29 22:10:25,198 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 300290000 [1] : 0
+2022-04-29 22:10:25,198 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 301380000 [1] : 0
+2022-04-29 22:10:25,198 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 301390000 [1] : 0
+2022-04-29 22:10:25,198 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 301500000 [1] : 0
+2022-04-29 22:10:25,198 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 320060000 [1] : 0
+2022-04-29 22:10:25,198 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 330010010 [1] : 0
+2022-04-29 22:10:25,338 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 400010000 [1] : 10231
+2022-04-29 22:10:25,338 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 400020000 [1] : 0
+2022-04-29 22:10:25,338 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 400030000 [1] : 0
+2022-04-29 22:10:25,338 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 400040000 [1] : 0
+2022-04-29 22:10:25,338 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 400050000 [1] : 0
+2022-04-29 22:10:25,338 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 400060000 [1] : 0
+2022-04-29 22:10:25,338 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 510010000 [1] : 0
+2022-04-29 22:10:25,338 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 520010000 [1] : 0
+2022-04-29 22:10:25,354 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 600010000 [1] : 394
+2022-04-29 22:10:25,354 INFO  [main] com.aionemu.gameserver.spawnengine.StaticDoorSpawnManager [StaticDoorSpawnManager.java:70] Spawned static doors: 600020000 [1] : 3
+2022-04-29 22:10:25,557 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 600020000 [1] : 5589
+2022-04-29 22:10:25,557 INFO  [main] com.aionemu.gameserver.spawnengine.StaticDoorSpawnManager [StaticDoorSpawnManager.java:70] Spawned static doors: 600030000 [1] : 1
+2022-04-29 22:10:25,869 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 600030000 [1] : 7607
+2022-04-29 22:10:25,885 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 600040000 [1] : 812
+2022-04-29 22:10:26,057 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 600050000 [1] : 7309
+2022-04-29 22:10:26,182 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 600060000 [1] : 7912
+2022-04-29 22:10:26,213 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 600070000 [1] : 992
+2022-04-29 22:10:26,213 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 600080000 [1] : 0
+2022-04-29 22:10:26,213 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 600090000 [1] : 0
+2022-04-29 22:10:26,213 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 600100000 [1] : 0
+2022-04-29 22:10:26,338 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 700010000 [1] : 1736
+2022-04-29 22:10:26,619 INFO  [main] com.aionemu.gameserver.services.HousingService [HousingService.java:140] Spawned houses 700010000 [1] : 500
+2022-04-29 22:10:26,619 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 700020000 [1] : 0
+2022-04-29 22:10:26,651 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 710010000 [1] : 1506
+2022-04-29 22:10:26,947 INFO  [main] com.aionemu.gameserver.services.HousingService [HousingService.java:140] Spawned houses 710010000 [1] : 500
+2022-04-29 22:10:26,947 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 710020000 [1] : 0
+2022-04-29 22:10:26,947 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 900020000 [1] : 0
+2022-04-29 22:10:26,947 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 900030000 [1] : 0
+2022-04-29 22:10:26,947 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 900100000 [1] : 0
+2022-04-29 22:10:26,947 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 900110000 [1] : 0
+2022-04-29 22:10:26,947 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 900120000 [1] : 0
+2022-04-29 22:10:26,947 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 900130000 [1] : 0
+2022-04-29 22:10:26,947 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 900170000 [1] : 0
+2022-04-29 22:10:26,947 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 900180000 [1] : 0
+2022-04-29 22:10:26,947 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:321] Spawned 900220000 [1] : 0
+2022-04-29 22:10:26,963 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:336] Loaded 91973 npc spawns
+2022-04-29 22:10:26,963 INFO  [main] com.aionemu.gameserver.spawnengine.SpawnEngine [SpawnEngine.java:337] Loaded 19480 gatherable spawns
+2022-04-29 22:10:26,979 INFO  [pool-2-thread-5] com.aionemu.gameserver.model.templates.event.EventTemplate [EventTemplate.java:170] Spawned event objects in 110010000 [1] : 1 (Dafarunerk Event)
+2022-04-29 22:10:26,979 INFO  [pool-2-thread-5] com.aionemu.gameserver.model.templates.event.EventTemplate [EventTemplate.java:170] Spawned event objects in 120010000 [1] : 1 (Dafarunerk Event)
+2022-04-29 22:10:26,979 INFO  [pool-2-thread-5] com.aionemu.gameserver.model.templates.event.EventTemplate [EventTemplate.java:170] Spawned event objects in 210010000 [1] : 2 (Doppelgangers)
+2022-04-29 22:10:26,979 INFO  [pool-2-thread-5] com.aionemu.gameserver.model.templates.event.EventTemplate [EventTemplate.java:170] Spawned event objects in 210030000 [1] : 2 (Doppelgangers)
+2022-04-29 22:10:26,979 INFO  [pool-2-thread-5] com.aionemu.gameserver.model.templates.event.EventTemplate [EventTemplate.java:170] Spawned event objects in 210020000 [1] : 2 (Doppelgangers)
+2022-04-29 22:10:26,979 INFO  [pool-2-thread-5] com.aionemu.gameserver.model.templates.event.EventTemplate [EventTemplate.java:170] Spawned event objects in 210040000 [1] : 2 (Doppelgangers)
+2022-04-29 22:10:26,979 INFO  [pool-2-thread-5] com.aionemu.gameserver.model.templates.event.EventTemplate [EventTemplate.java:170] Spawned event objects in 210050000 [1] : 2 (Doppelgangers)
+2022-04-29 22:10:26,979 INFO  [pool-2-thread-5] com.aionemu.gameserver.model.templates.event.EventTemplate [EventTemplate.java:170] Spawned event objects in 210060000 [1] : 2 (Doppelgangers)
+2022-04-29 22:10:26,979 INFO  [pool-2-thread-5] com.aionemu.gameserver.model.templates.event.EventTemplate [EventTemplate.java:170] Spawned event objects in 220010000 [1] : 2 (Doppelgangers)
+2022-04-29 22:10:26,979 INFO  [pool-2-thread-5] com.aionemu.gameserver.model.templates.event.EventTemplate [EventTemplate.java:170] Spawned event objects in 220030000 [1] : 2 (Doppelgangers)
+2022-04-29 22:10:26,979 INFO  [pool-2-thread-5] com.aionemu.gameserver.model.templates.event.EventTemplate [EventTemplate.java:170] Spawned event objects in 220020000 [1] : 2 (Doppelgangers)
+2022-04-29 22:10:26,979 INFO  [pool-2-thread-5] com.aionemu.gameserver.model.templates.event.EventTemplate [EventTemplate.java:170] Spawned event objects in 220040000 [1] : 2 (Doppelgangers)
+2022-04-29 22:10:26,979 INFO  [pool-2-thread-5] com.aionemu.gameserver.model.templates.event.EventTemplate [EventTemplate.java:170] Spawned event objects in 220050000 [1] : 2 (Doppelgangers)
+2022-04-29 22:10:26,979 INFO  [main] CRAZY_DAEVA_LOG [CrazyDaevaService.java:57] [CRAZY] Scheduled Crazy Daeva 1 based on cron expression: 0 0 14 ? * *
+2022-04-29 22:10:26,979 INFO  [pool-2-thread-5] com.aionemu.gameserver.model.templates.event.EventTemplate [EventTemplate.java:170] Spawned event objects in 220070000 [1] : 2 (Doppelgangers)
+2022-04-29 22:10:26,979 INFO  [main] CRAZY_DAEVA_LOG [CrazyDaevaService.java:57] [CRAZY] Scheduled Crazy Daeva 1 based on cron expression: 0 0 18 ? * *
+2022-04-29 22:10:26,979 INFO  [main] CRAZY_DAEVA_LOG [CrazyDaevaService.java:57] [CRAZY] Scheduled Crazy Daeva 1 based on cron expression: 0 0 22 ? * *
+2022-04-29 22:10:26,994 INFO  [pool-2-thread-5] com.aionemu.gameserver.model.templates.event.EventTemplate [EventTemplate.java:170] Spawned event objects in 110010000 [1] : 2 (World Blessers)
+2022-04-29 22:10:26,994 INFO  [pool-2-thread-5] com.aionemu.gameserver.model.templates.event.EventTemplate [EventTemplate.java:170] Spawned event objects in 120010000 [1] : 2 (World Blessers)
+2022-04-29 22:10:26,994 INFO  [pool-2-thread-5] com.aionemu.gameserver.model.templates.event.EventTemplate [EventTemplate.java:170] Spawned event objects in 210010000 [1] : 3 (World Blessers)
+2022-04-29 22:10:26,994 INFO  [pool-2-thread-5] com.aionemu.gameserver.model.templates.event.EventTemplate [EventTemplate.java:170] Spawned event objects in 220010000 [1] : 3 (World Blessers)
+2022-04-29 22:10:26,994 INFO  [pool-2-thread-5] com.aionemu.gameserver.model.templates.event.EventTemplate [EventTemplate.java:170] Spawned event objects in 210030000 [1] : 5 (World Blessers)
+2022-04-29 22:10:26,994 INFO  [main] com.aionemu.gameserver.eventEngine.battleground.services.battleground.BattleGroundManager [BattleGroundManager.java:77] Started BattleGroundManager, loaded 12 BG templates.
+2022-04-29 22:10:26,994 INFO  [pool-2-thread-5] com.aionemu.gameserver.model.templates.event.EventTemplate [EventTemplate.java:170] Spawned event objects in 220030000 [1] : 5 (World Blessers)
+2022-04-29 22:10:26,994 INFO  [pool-2-thread-5] com.aionemu.gameserver.model.templates.event.EventTemplate [EventTemplate.java:170] Spawned event objects in 210020000 [1] : 6 (World Blessers)
+2022-04-29 22:10:26,994 INFO  [pool-2-thread-5] com.aionemu.gameserver.model.templates.event.EventTemplate [EventTemplate.java:170] Spawned event objects in 220020000 [1] : 7 (World Blessers)
+2022-04-29 22:10:26,994 INFO  [pool-2-thread-5] com.aionemu.gameserver.model.templates.event.EventTemplate [EventTemplate.java:170] Spawned event objects in 210060000 [1] : 7 (World Blessers)
+2022-04-29 22:10:26,994 INFO  [pool-2-thread-5] com.aionemu.gameserver.model.templates.event.EventTemplate [EventTemplate.java:170] Spawned event objects in 220050000 [1] : 6 (World Blessers)
+2022-04-29 22:10:26,994 INFO  [pool-2-thread-5] com.aionemu.gameserver.model.templates.event.EventTemplate [EventTemplate.java:170] Spawned event objects in 210040000 [1] : 9 (World Blessers)
+2022-04-29 22:10:26,994 INFO  [pool-2-thread-5] com.aionemu.gameserver.model.templates.event.EventTemplate [EventTemplate.java:170] Spawned event objects in 220040000 [1] : 6 (World Blessers)
+2022-04-29 22:10:26,994 INFO  [pool-2-thread-5] com.aionemu.gameserver.model.templates.event.EventTemplate [EventTemplate.java:170] Spawned event objects in 210050000 [1] : 4 (World Blessers)
+2022-04-29 22:10:26,994 INFO  [pool-2-thread-5] com.aionemu.gameserver.model.templates.event.EventTemplate [EventTemplate.java:170] Spawned event objects in 220070000 [1] : 4 (World Blessers)
+2022-04-29 22:10:26,994 INFO  [pool-2-thread-5] com.aionemu.gameserver.model.templates.event.EventTemplate [EventTemplate.java:170] Spawned event objects in 400010000 [1] : 2 (World Blessers)
+2022-04-29 22:10:26,994 INFO  [pool-2-thread-5] com.aionemu.gameserver.model.templates.event.EventTemplate [EventTemplate.java:170] Spawned event objects in 600020000 [1] : 2 (World Blessers)
+2022-04-29 22:10:26,994 INFO  [pool-2-thread-5] com.aionemu.gameserver.model.templates.event.EventTemplate [EventTemplate.java:170] Spawned event objects in 600030000 [1] : 2 (World Blessers)
+2022-04-29 22:10:26,994 INFO  [pool-2-thread-5] com.aionemu.gameserver.model.templates.event.EventTemplate [EventTemplate.java:170] Spawned event objects in 600050000 [1] : 3 (World Blessers)
+2022-04-29 22:10:26,994 INFO  [pool-2-thread-5] com.aionemu.gameserver.model.templates.event.EventTemplate [EventTemplate.java:170] Spawned event objects in 600060000 [1] : 2 (World Blessers)
+2022-04-29 22:10:27,307 INFO  [main] com.aionemu.gameserver.services.DisputeLandService [DisputeLandService.java:63] Init Dispute Lands...
+2022-04-29 22:10:27,401 INFO  [main] com.aionemu.gameserver.services.GameTimeService [GameTimeService.java:61] GameTimeService started. Update interval:180000
+2022-04-29 22:10:27,401 INFO  [main] com.aionemu.gameserver.services.DebugService [DebugService.java:48] DebugService started. Analyze iterval: 1800000
+2022-04-29 22:10:27,401 INFO  [main] EXCHANGE_LOG [BrokerService.java:89] Loading broker...
+2022-04-29 22:10:27,432 INFO  [main] EXCHANGE_LOG [BrokerService.java:114] Broker loaded with 2 broker items, 0 settled items.
+2022-04-29 22:10:27,432 INFO  [main] com.aionemu.gameserver.taskmanager.AbstractPeriodicTaskManager [AbstractPeriodicTaskManager.java:41] BrokerPeriodicTaskManager: Initialized.
+2022-04-29 22:10:27,432 INFO  [main] com.aionemu.gameserver.taskmanager.AbstractPeriodicTaskManager [AbstractPeriodicTaskManager.java:41] ExchangePeriodicTaskManager: Initialized.
+2022-04-29 22:10:27,432 INFO  [main] com.aionemu.gameserver.services.PetitionService [PetitionService.java:48] Loading PetitionService ...
+2022-04-29 22:10:27,463 INFO  [main] com.aionemu.gameserver.services.PetitionService [PetitionService.java:53] Successfully loaded 0 database petitions
+2022-04-29 22:10:27,463 INFO  [main] com.aionemu.gameserver.services.CuringZoneService [CuringZoneService.java:46] spawned Curing Zones
+2022-04-29 22:10:27,479 INFO  [main] com.aionemu.gameserver.services.abyss.AbyssRankUpdateService [AbyssRankUpdateService.java:69] AbyssRankUpdateService: executing rank update
+2022-04-29 22:10:27,494 INFO  [main] com.aionemu.gameserver.services.abyss.AbyssRankingCache [AbyssRankingCache.java:49] Updating abyss ranking cache
+2022-04-29 22:10:27,619 INFO  [main] com.aionemu.gameserver.services.LegionService [LegionService.java:1038] Legion ranking update task started
+2022-04-29 22:10:27,619 INFO  [main] com.aionemu.gameserver.services.LegionService [LegionService.java:1056] Legion ranking update: 0 ms, legions: 0
+2022-04-29 22:10:27,619 INFO  [main] com.aionemu.gameserver.services.abyss.AbyssRankUpdateService [AbyssRankUpdateService.java:83] AbyssRankUpdateService: execution time: 0
+2022-04-29 22:10:27,619 INFO  [main] com.aionemu.gameserver.services.abyss.AbyssRankUpdateService [AbyssRankUpdateService.java:56] Starting ranking update task based on cron expression: 0 0 0 * * ?
+2022-04-29 22:10:27,635 INFO  [main] com.aionemu.gameserver.taskmanager.fromdb.TaskFromDBManager [TaskFromDBManager.java:36] Loaded 0 task from the database
+2022-04-29 22:10:27,651 INFO  [main] com.aionemu.gameserver.cache.HTMLCache [HTMLCache.java:81] Cache[HTML]: Caching started... OK.
+2022-04-29 22:10:27,651 INFO  [main] com.aionemu.gameserver.cache.HTMLCache [HTMLCache.java:84] Cache[HTML]: Using cache file... OK.
+2022-04-29 22:10:27,666 INFO  [main] com.aionemu.gameserver.cache.HTMLCache [HTMLCache.java:111] Cache[HTML]: 9,408 kilobytes on 8 file(s) loaded.
+2022-04-29 22:10:27,666 INFO  [main] com.aionemu.gameserver.cache.HTMLCache [HTMLCache.java:114] Cache[HTML]: Compaction skipped!
+2022-04-29 22:10:28,088 INFO  [main] com.aionemu.gameserver.services.LimitedItemTradeService [LimitedItemTradeService.java:79] Scheduled Limited Items based on cron expression size: 137
+2022-04-29 22:10:28,104 INFO  [main] com.aionemu.gameserver.services.instance.DredgionService [DredgionService.java:63] Scheduled Dredgion: based on cron expression: 0 0 0,12,20 ? * * Duration: 60 in minutes
+2022-04-29 22:10:28,104 INFO  [main] com.aionemu.gameserver.services.instance.KamarBattlefieldService [KamarBattlefieldService.java:53] Scheduled KamarBattlefield based on cron expression: 0 0 0,20 ? * * Duration: 60 in minutes
+2022-04-29 22:10:28,104 INFO  [main] com.aionemu.gameserver.services.instance.OphidanBridgeService [OphidanBridgeService.java:53] Scheduled Ophidan Bridge based on cron expression: 0 0 0,10,16,2 ? * * Duration: 60 in minutes
+2022-04-29 22:10:28,104 INFO  [main] VETERANREWARD_LOG [VeteranRewardsService.java:81] Veteran Reward System activated
+2022-04-29 22:10:28,104 INFO  [main] VETERANREWARD_LOG [VeteranRewardsService.java:89] Broadcasting Veteran Rewards status based on expression: 0 * * ? * *
+2022-04-29 22:10:28,104 INFO  [main] HOUSE_AUCTION_LOG [HousingBidService.java:124] Loading house bids...
+2022-04-29 22:10:28,213 INFO  [main] HOUSE_AUCTION_LOG [HousingBidService.java:127] HousingBidService: auction auto filling enabled.
+2022-04-29 22:10:28,229 INFO  [main] HOUSE_AUCTION_LOG [HousingBidService.java:129] HousingBidService: added 0 new house bids.
+2022-04-29 22:10:28,229 INFO  [main] HOUSE_AUCTION_LOG [HousingBidService.java:131] HousingBidService loaded. Minutes till start: 2989
+2022-04-29 22:10:28,322 INFO  [main] com.aionemu.gameserver.utils.i18n.Language [LanguagesLoader.java:60] Loaded 6 custom message handlers.
+2022-04-29 22:10:28,322 INFO  [main] com.aionemu.gameserver.services.transfers.PlayerTransferService [PlayerTransferService.java:67] PlayerTransferService loaded. With 0 restricted skills.
+2022-04-29 22:10:28,322 INFO  [main] com.aionemu.gameserver.model.house.MaintenanceTask [MaintenanceTask.java:92] Initializing House maintenance task...
+2022-04-29 22:10:28,385 INFO  [main] com.aionemu.gameserver.services.TownService [TownService.java:83] Loaded 25 elyos towns.
+2022-04-29 22:10:28,385 INFO  [main] com.aionemu.gameserver.services.TownService [TownService.java:84] Loaded 25 asmodians towns.
+2022-04-29 22:10:28,400 INFO  [main] com.aionemu.gameserver.services.ChallengeTaskService [ChallengeTaskService.java:69] ChallengeTaskService initialized.
+2022-04-29 22:10:28,416 INFO  [main] com.aionemu.gameserver.utils.AEVersions [AEVersions.java:60] Commons Revision: undefined
+2022-04-29 22:10:28,416 INFO  [Thread-15] com.aionemu.gameserver.services.gc.GarbageCollector [GarbageCollector.java:53] [GarbageCollector] Garbage Collector is scheduled to start in 5 minutes.
+2022-04-29 22:10:28,416 INFO  [main] com.aionemu.gameserver.utils.AEVersions [AEVersions.java:60] Commons Build Date: [ 20150115-1341 ]
+2022-04-29 22:10:28,416 INFO  [main] com.aionemu.gameserver.utils.AEVersions [AEVersions.java:60] GS Revision: ${revision}
+2022-04-29 22:10:28,416 INFO  [main] com.aionemu.gameserver.utils.AEVersions [AEVersions.java:60] GS Branch: Unknown Branch
+2022-04-29 22:10:28,416 INFO  [main] com.aionemu.gameserver.utils.AEVersions [AEVersions.java:60] GS Branch Commit Date: Unknown CommitTime
+2022-04-29 22:10:28,416 INFO  [main] com.aionemu.gameserver.utils.AEVersions [AEVersions.java:60] GS Build Date: [ 2022-04-01-08:12 ]
+2022-04-29 22:10:28,416 INFO  [main] com.aionemu.gameserver.utils.AEVersions [AEVersions.java:60] ..................................................
+2022-04-29 22:10:28,416 INFO  [main] com.aionemu.gameserver.utils.AEVersions [AEVersions.java:60] ..................................................
+2022-04-29 22:10:32,119 INFO  [main] com.aionemu.commons.utils.AEInfos [AEInfos.java:116] OS: Windows Server 2012 R2 Build: 6.3
+2022-04-29 22:10:32,119 INFO  [main] com.aionemu.commons.utils.AEInfos [AEInfos.java:116] OS Arch: amd64
+2022-04-29 22:10:32,119 INFO  [main] com.aionemu.commons.utils.AEInfos [AEInfos.java:116] ..................................................
+2022-04-29 22:10:32,119 INFO  [main] com.aionemu.commons.utils.AEInfos [AEInfos.java:116] ..................................................
+2022-04-29 22:10:32,119 INFO  [main] com.aionemu.commons.utils.AEInfos [AEInfos.java:111] Avaible CPU(s): 4
+2022-04-29 22:10:32,119 INFO  [main] com.aionemu.commons.utils.AEInfos [AEInfos.java:111] Processor(s) Identifier: Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+2022-04-29 22:10:32,119 INFO  [main] com.aionemu.commons.utils.AEInfos [AEInfos.java:111] ..................................................
+2022-04-29 22:10:32,119 INFO  [main] com.aionemu.commons.utils.AEInfos [AEInfos.java:111] ..................................................
+2022-04-29 22:10:32,119 INFO  [main] com.aionemu.commons.utils.AEInfos [AEInfos.java:121] Java Platform Information
+2022-04-29 22:10:32,119 INFO  [main] com.aionemu.commons.utils.AEInfos [AEInfos.java:121] Java Runtime  Name: Java(TM) SE Runtime Environment
+2022-04-29 22:10:32,119 INFO  [main] com.aionemu.commons.utils.AEInfos [AEInfos.java:121] Java Version: 1.7.0_80
+2022-04-29 22:10:32,119 INFO  [main] com.aionemu.commons.utils.AEInfos [AEInfos.java:121] Java Class Version: 51.0
+2022-04-29 22:10:32,119 INFO  [main] com.aionemu.commons.utils.AEInfos [AEInfos.java:121] ..................................................
+2022-04-29 22:10:32,119 INFO  [main] com.aionemu.commons.utils.AEInfos [AEInfos.java:121] ..................................................
+2022-04-29 22:10:32,119 INFO  [main] com.aionemu.commons.utils.AEInfos [AEInfos.java:126] Virtual Machine Information (JVM)
+2022-04-29 22:10:32,119 INFO  [main] com.aionemu.commons.utils.AEInfos [AEInfos.java:126] JVM Name: Java HotSpot(TM) 64-Bit Server VM
+2022-04-29 22:10:32,119 INFO  [main] com.aionemu.commons.utils.AEInfos [AEInfos.java:126] JVM installation directory: C:\AionCORE\Core\JavaJDK_7\jre
+2022-04-29 22:10:32,119 INFO  [main] com.aionemu.commons.utils.AEInfos [AEInfos.java:126] JVM version: 24.80-b11
+2022-04-29 22:10:32,119 INFO  [main] com.aionemu.commons.utils.AEInfos [AEInfos.java:126] JVM Vendor: Oracle Corporation
+2022-04-29 22:10:32,119 INFO  [main] com.aionemu.commons.utils.AEInfos [AEInfos.java:126] JVM Info: mixed mode
+2022-04-29 22:10:32,119 INFO  [main] com.aionemu.commons.utils.AEInfos [AEInfos.java:126] ..................................................
+2022-04-29 22:10:32,119 INFO  [main] com.aionemu.commons.utils.AEInfos [AEInfos.java:126] ..................................................
+2022-04-29 22:10:32,119 INFO  [main] com.aionemu.commons.utils.AEInfos [AEInfos.java:106] +----
+2022-04-29 22:10:32,119 INFO  [main] com.aionemu.commons.utils.AEInfos [AEInfos.java:106] | Global Memory Informations at 22:10:32:
+2022-04-29 22:10:32,119 INFO  [main] com.aionemu.commons.utils.AEInfos [AEInfos.java:106] |    |
+2022-04-29 22:10:32,119 INFO  [main] com.aionemu.commons.utils.AEInfos [AEInfos.java:106] | Allowed Memory: 4189440 KB
+2022-04-29 22:10:32,119 INFO  [main] com.aionemu.commons.utils.AEInfos [AEInfos.java:106] |    |= Allocated Memory: 2663324 KB (63,5723%)
+2022-04-29 22:10:32,119 INFO  [main] com.aionemu.commons.utils.AEInfos [AEInfos.java:106] |    |= Non-Allocated Memory: 1526116 KB (36,4277%)
+2022-04-29 22:10:32,119 INFO  [main] com.aionemu.commons.utils.AEInfos [AEInfos.java:106] | Allocated Memory: 2663324 KB
+2022-04-29 22:10:32,119 INFO  [main] com.aionemu.commons.utils.AEInfos [AEInfos.java:106] |    |= Used Memory: 1573204 KB (37,5517%)
+2022-04-29 22:10:32,119 INFO  [main] com.aionemu.commons.utils.AEInfos [AEInfos.java:106] |    |= Unused (cached) Memory: 1090120 KB (26,0207%)
+2022-04-29 22:10:32,134 INFO  [main] com.aionemu.commons.utils.AEInfos [AEInfos.java:106] | Useable Memory: 2616236 KB (62,4483%)
+2022-04-29 22:10:32,134 INFO  [main] com.aionemu.commons.utils.AEInfos [AEInfos.java:106] +----
+2022-04-29 22:10:32,134 INFO  [main] com.aionemu.gameserver.GameServer [GameServer.java:380] ===================================================
+2022-04-29 22:10:32,134 INFO  [main] com.aionemu.gameserver.GameServer [GameServer.java:381] AL Game Emu started in 49 seconds.
+2022-04-29 22:10:32,134 INFO  [main] com.aionemu.gameserver.GameServer [GameServer.java:382] ===================================================
+2022-04-29 22:10:32,166 INFO  [main] com.aionemu.commons.network.NioServer [NioServer.java:117] Server listening on all available IPs on Port 7777 for Game Connections
+2022-04-29 22:10:32,166 INFO  [main] com.aionemu.gameserver.network.loginserver.LoginServer [LoginServer.java:102] Connecting to LoginServer: localhost/127.0.0.1:9014
+2022-04-29 22:10:32,166 INFO  [main] com.aionemu.gameserver.network.loginserver.LoginServerConnection [LoginServerConnection.java:83] Connected to LoginServer!
+2022-04-29 22:10:32,166 INFO  [main] com.aionemu.gameserver.network.chatserver.ChatServer [ChatServer.java:61] Connecting to ChatServer: localhost/127.0.0.1:9021
+2022-04-29 22:10:32,166 INFO  [main] com.aionemu.gameserver.network.chatserver.ChatServerConnection [ChatServerConnection.java:76] Connected to ChatServer!
+2022-04-29 22:10:32,181 INFO  [InstantPool-1] com.aionemu.gameserver.network.chatserver.clientpackets.CM_CS_AUTH_RESPONSE [CM_CS_AUTH_RESPONSE.java:65] GameServer authed successfully IP : 127.0.0.1 Port: 10241
+2022-04-29 22:10:32,181 INFO  [main] com.aionemu.gameserver.utils.ZCXInfo [ZCXInfo.java:109] FACTIONS RATIO : E 50,0 % / A 50,0 %
+2022-04-29 22:10:32,681 INFO  [ReadWrite-0 Dispatcher] com.aionemu.gameserver.network.BannedMacManager [BannedMacManager.java:89] Loaded 0 banned mac addresses
+2022-04-29 22:10:32,681 INFO  [ReadWrite-0 Dispatcher] com.aionemu.gameserver.network.BannedMacManager [BannedMacManager.java:90] GameServer started...
+2022-04-29 22:13:21,302 WARN  [pool-4-thread-1] com.aionemu.gameserver.network.loginserver.LoginServer [LoginServer.java:134] Connection with LoginServer lost...
+2022-04-29 22:13:22,459 WARN  [pool-4-thread-1] com.aionemu.gameserver.network.chatserver.ChatServer [ChatServer.java:95] Connection with ChatServer lost...

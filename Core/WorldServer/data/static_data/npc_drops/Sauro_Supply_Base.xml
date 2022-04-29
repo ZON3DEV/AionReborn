@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc_drops xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="npc_drops.xsd">
+	<npc_drop npc_id="802181">
+		<drop_group use_category="true" name="MYSTIC_ARMOR_TORS" race="PC_ALL">
+			<drop item_id="110101669" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="110101670" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="110301677" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="110301678" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="110501507" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="110501508" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="110601481" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="110601482" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+		</drop_group>
+		<drop_group use_category="true" name="MYSTIC_ARMOR_GLOVES" race="PC_ALL">
+			<drop item_id="111101501" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="111101502" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="111301615" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="111301616" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="111501462" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="111501463" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="111601444" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="111601445" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+		</drop_group>
+		<drop_group use_category="true" name="MYSTIC_ARMOR_SHIELDS" race="PC_ALL">
+			<drop item_id="112101454" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="112101455" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="112301554" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="112301555" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="112501404" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="112501405" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="112601425" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="112601426" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+		</drop_group>
+		<drop_group use_category="true" name="MYSTIC_ARMOR_GREAVES" race="PC_ALL">
+			<drop item_id="113101516" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="113101517" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="113301646" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="113301647" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="113501480" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="113501481" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="113601427" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="113601428" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+		</drop_group>
+		<drop_group use_category="true" name="MYSTIC_ARMOR_BOOTS" race="PC_ALL">
+			<drop item_id="114101548" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="114101549" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="114301683" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="114301684" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="114501489" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="114501490" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="114601432" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="114601433" chance="2" min_amount="1" max_amount="1" eachmember="false"/>
+		</drop_group>
+	</npc_drop>
+	<npc_drop npc_id="230836">
+		<drop_group use_category="true" name="Hlam" race="PC_ALL">
+			<drop item_id="152010325" chance="0.9" min_amount="1" max_amount="1" eachmember="false"/> 
+			<drop item_id="182007032" chance="0.9" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="152014024" chance="0.9" min_amount="1" max_amount="1" eachmember="false"/>
+		</drop_group>
+	</npc_drop>
+	<npc_drop npc_id="230786">
+		<drop_group use_category="true" name="Hlam" race="PC_ALL">
+			<drop item_id="152010325" chance="0.9" min_amount="1" max_amount="1" eachmember="false"/> 
+			<drop item_id="182007032" chance="0.9" min_amount="1" max_amount="1" eachmember="false"/>
+			<drop item_id="152014024" chance="0.9" min_amount="1" max_amount="1" eachmember="false"/>
+		</drop_group>
+	</npc_drop>
+	<npc_drop npc_id="230841">
+		<drop_group name="" use_category="false">
+			<drop chance="5.0" item_id="182400001" max_amount="3000" min_amount="1"/>
+			<drop chance="1.0" item_id="188052920" max_amount="1" min_amount="1"/>
+			<drop chance="1.1" item_id="100001656" max_amount="1" min_amount="1"/>
+			<drop chance="1.1" item_id="100001365" max_amount="1" min_amount="1"/>
+			<drop chance="1.1" item_id="100001597" max_amount="5" min_amount="1"/>
+			<drop chance="1.1" item_id="100001598" max_amount="5" min_amount="1"/>
+			<drop chance="1.1" item_id="100001605" max_amount="1" min_amount="1"/>
+			<drop chance="1.1" item_id="100001656" max_amount="1" min_amount="1"/>			
+		</drop_group>
+	</npc_drop>
+</npc_drops>

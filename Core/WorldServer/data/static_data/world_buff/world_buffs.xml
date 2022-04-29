@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<world_buffs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="world_buffs.xsd">
+	<world_buff_map id="600050000">
+		<world_buff skill_ids="20664" type="NPC" npc_tribe="PROTECTGUARD_DARK PROTECTGUARD_LIGHT"/>
+		<world_buff skill_ids="20962" type="NPC" npc_tribe="FANATIC"/>
+	</world_buff_map>
+	<world_buff_map id="600070000">
+		<world_buff skill_ids="20700" type="NPC" npc_tribe="TIAMATREMNANT_DRAKAN TIAMATREMNANT_LIZARD"/>
+	</world_buff_map>
+	<world_buff_map id="301110000">
+		<world_buff skill_ids="21181" type="NPC" npc_ids="231104 284384 284383"/>
+		<world_buff skill_ids="21181 21146" type="NPC" npc_ids="231105"/>
+	</world_buff_map>
+	<world_buff_map id="300800000">
+		<world_buff skill_ids="21371" type="NPC" npc_ids="231074 231078 231082 231086"/>
+	</world_buff_map>
+	<world_buff_map id="300590000">
+		<world_buff skill_ids="21438" type="NPC" npc_ids="231050"/>
+		<world_buff skill_ids="20700" type="NPC" npc_tribe="IDF5U1_VRITRA"/>
+	</world_buff_map>
+	<world_buff_map id="301010000">
+		<world_buff skill_ids="20962" type="NPC" npc_tribe="SHULACK"/>
+	</world_buff_map>
+	<world_buff_map id="301020000">
+		<world_buff skill_ids="20962" type="NPC" npc_tribe="SHULACK"/>
+	</world_buff_map>
+	<world_buff_map id="301030000">
+		<world_buff skill_ids="20962" type="NPC" npc_tribe="SHULACK"/>
+	</world_buff_map>
+	<world_buff_map id="301050000">
+		<world_buff skill_ids="20962" type="NPC" npc_tribe="SHULACK"/>
+	</world_buff_map>
+	<world_buff_map id="301120000">
+		<world_buff skill_ids="20251" type="NPC" npc_ids="233260"/>
+	</world_buff_map>
+	<world_buff_map id="301130000">
+		<world_buff skill_ids="20700" type="NPC" npc_tribe="VRITRASUPPORT AGRRESSIVEFRIENDLYVRITRA"/>
+		<world_buff skill_ids="20251" type="NPC" npc_ids="230792"/>
+	</world_buff_map>
+	<world_buff_map id="300480000">
+		<world_buff skill_ids="20700" type="NPC" npc_tribe="VRITRA"/>
+	</world_buff_map>
+	<world_buff_map id="301140000">
+		<world_buff skill_ids="20962" type="NPC" npc_tribe="IDF5U2_SHULACK"/>
+		<world_buff skill_ids="20700" type="NPC" npc_tribe="IDF5U2_VRITRA"/>
+		<world_buff skill_ids="20251" type="NPC" npc_ids="233414 233072 233125"/>
+	</world_buff_map>
+</world_buffs>

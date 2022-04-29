@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<siege_schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="siege_schedule.xsd">
+	<fortress id="1011"> <!-- Divine Fortress -->
+		<siegeTime>0 0 21 ? * SAT</siegeTime>
+	</fortress>
+	<fortress id="1131"> <!-- Siel's Western Fortress -->
+		<siegeTime>0 0 11 ? * SAT</siegeTime>
+	</fortress>
+	<fortress id="1132"> <!-- Siel's Eastern Fortress -->
+		<siegeTime>0 0 11 ? * SAT</siegeTime>
+	</fortress>
+	<fortress id="1141"> <!-- Sulfur Fortress --> 
+		<siegeTime>0 0 11 ? * SAT</siegeTime>
+	</fortress>
+	<fortress id="1211"> <!-- Roah Fortress -->
+		<siegeTime>0 0 11 ? * SAT</siegeTime>
+	</fortress>
+	<fortress id="1221"> <!-- Krotan Refuge -->
+		<siegeTime>0 0 11 ? * SUN</siegeTime>
+	</fortress>
+	<fortress id="1231"> <!-- Kysis Fortress -->
+		<siegeTime>0 0 11 ? * SUN</siegeTime>
+	</fortress>
+	<fortress id="1241"> <!-- Miren Fortress -->
+		<siegeTime>0 0 11 ? * SUN</siegeTime>
+	</fortress>
+	<fortress id="1251"> <!-- Asteria Fortress -->
+		<siegeTime>0 0 11 ? * SUN</siegeTime>
+	</fortress>
+	<fortress id="2011"> <!-- Temple Of Scales (Inggison) -->
+		<siegeTime>0 0 21 ? * MON,WED,SUN</siegeTime>
+		<siegeTime>0 0 10 ? * THU,SAT</siegeTime>
+	</fortress>
+	<fortress id="2021"> <!-- Altar Of Avarice (Inggison) -->
+		<siegeTime>0 0 21 ? * TUE,WED,SUN</siegeTime>
+		<siegeTime>0 0 10 ? * FRI,SAT</siegeTime>
+	</fortress>
+	<fortress id="3011"> <!-- Vorgaltem Citadel (Gelkmaros) -->
+		<siegeTime>0 0 21 ? * MON,WED,SUN</siegeTime>
+		<siegeTime>0 0 10 ? * THU,SAT</siegeTime>
+	</fortress>
+	<fortress id="3021"> <!-- Crison Temple (Gelkmaros) -->
+		<siegeTime>0 0 21 ? * TUE,WED,SUN</siegeTime>
+		<siegeTime>0 0 10 ? * FRI,SAT</siegeTime>
+	</fortress>
+	<source id="4011"><!-- Heart of Fissure (Tiamaranta) -->
+		<siegeTime>0 55 13 ? * *</siegeTime>
+		<siegeTime>0 55 17 ? * *</siegeTime>
+		<siegeTime>0 55 21 ? * *</siegeTime>
+	</source>
+	<source id="4021"><!-- Heart of Gravity (Tiamaranta) -->
+		<siegeTime>0 55 13 ? * *</siegeTime>
+		<siegeTime>0 55 17 ? * *</siegeTime>
+		<siegeTime>0 55 21 ? * *</siegeTime>
+	</source>
+	<source id="4031"><!-- Heart of Wrath (Tiamaranta) -->
+		<siegeTime>0 55 13 ? * *</siegeTime>
+		<siegeTime>0 55 17 ? * *</siegeTime>
+		<siegeTime>0 55 21 ? * *</siegeTime>
+	</source>
+	<source id="4041"><!-- Heart of Petrification (Tiamaranta) -->
+		<siegeTime>0 55 13 ? * *</siegeTime>
+		<siegeTime>0 55 17 ? * *</siegeTime>
+		<siegeTime>0 55 21 ? * *</siegeTime>
+	</source>
+	<fortress id="5011"> <!-- Katalam - Sillus Festung-->
+		<siegeTime>0 0 14 ? * SAT</siegeTime>	
+		<siegeTime>0 0 21 ? * TUE,WED,SUN</siegeTime>
+	</fortress>
+	<fortress id="6011"> <!-- Danaria - Bassen Festung-->
+		<siegeTime>0 0 14 ? * TUE,FRI,SUN</siegeTime>
+	</fortress>
+	<fortress id="6021"> <!-- Danaria - Prades Festung-->
+		<siegeTime>0 0 14 ? * SUN</siegeTime>
+		<siegeTime>0 0 22 ? * WED,FRI</siegeTime>
+	</fortress>	
+</siege_schedule>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest_scripts>
+	<!--
+		[BEGIN] SUMMARY
+			80230 [XML] [Event] Fortune Opportunities
+			80231 [TODO] [Event] Lucky Winner!
+			80232 [TODO] [Event] Lucky Winner!
+			80233 [TODO] [Event] Lucky Winner!
+			80234 [TODO] [Event] Lucky Winner!
+			80235 [TODO] [Event] Lucky Winner!
+			80236 [TODO] [Event] Lucky Winner!
+			80237 [TODO] [Event] Lucky Winner!
+			80238 [TODO] [Event] Lucky Winner!
+			80239 [TODO] [Event] Lucky Winner!
+			80240 [TODO] [Event] Lucky Winner!
+			80241 [TODO] [Event] Lucky Winner!
+			80242 [TODO] [Event] Lucky Winner!
+			80243 [TODO] [Event] Lucky Winner!
+			80244 [TODO] [Event] Lucky Winner!
+			80245 [TODO] [Event] Lucky Winner!
+			80246 [TODO] [Event] Lucky Winner!
+			80247 [TODO] [Event] Lucky Winner!
+			80248 [TODO] [Event] Lucky Winner!
+			80249 [TODO] [Event] Lucky Winner!
+			80250 [TODO] [Event] Lucky Winner!
+			80251 [TODO] [Event] Lucky Winner!
+			80252 [TODO] [Event] Lucky Winner!
+			80253 [TODO] [Event] Lucky Winner!
+			80254 [TODO] [Event] Lucky Winner!
+			80286 [TODO] [Event/Repeat] Mithril Medal Deal
+			80287 [TODO] [Event/Repeat] Mithril Medal Deal
+			80288 [TODO] [Event/Repeat] Mithril Medal Deal
+			80289 [TODO] [Event/Repeat] Mithril Medal Deal
+		[END] SUMMARY
+	-->
+	<!-- REPORTING QUESTS 
+	<report_to id="80230" start_npc_ids="831148" end_npc_ids="831148"/> -->
+	
+	<report_to_many id="80230" start_npc_ids="831148" end_npc_ids="831148" start_dialog_id="1011">
+		<npc_infos var="0" npc_id="831148" quest_dialog="80230" close_dialog="1009"/>
+	</report_to_many>
+	<!-- COLLECTING QUESTS -->
+	<!-- HUNTING QUESTS -->
+	<!-- ITEM ORDERS QUESTS -->
+</quest_scripts>

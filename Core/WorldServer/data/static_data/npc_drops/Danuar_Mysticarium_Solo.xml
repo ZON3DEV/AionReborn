@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc_drops xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="npc_drops.xsd">
+	<npc_drop npc_id="230076">
+		<drop_group name="" use_category="false">
+			<drop chance="15.0" item_id="182400001" max_amount="5000" min_amount="1"/>
+		</drop_group>
+		<drop_group name="AP_REWARDS_KORONI">
+			<drop item_id="186000051" chance="3.85" min_amount="1" max_amount="2"/>
+			<drop item_id="186000052" chance="3.85" min_amount="1" max_amount="2"/>
+			<drop item_id="186000053" chance="3.85" min_amount="1" max_amount="2"/>
+			<drop item_id="186000054" chance="3.85" min_amount="1" max_amount="2"/>
+		</drop_group>
+		<drop_group name="AP_REWARDS_CHASHI">
+			<drop item_id="186000055" chance="3.85" min_amount="1" max_amount="2"/>
+			<drop item_id="186000056" chance="3.85" min_amount="1" max_amount="2"/>
+			<drop item_id="186000057" chance="3.85" min_amount="1" max_amount="2"/>
+			<drop item_id="186000058" chance="3.85" min_amount="1" max_amount="2"/>
+		</drop_group>
+		<drop_group name="AP_REWARDS_PECHATI">
+			<drop item_id="186000059" chance="4.85" min_amount="1" max_amount="2"/>
+			<drop item_id="186000060" chance="4.85" min_amount="1" max_amount="2"/>
+			<drop item_id="186000061" chance="4.85" min_amount="1" max_amount="2"/>
+			<drop item_id="186000062" chance="4.85" min_amount="1" max_amount="2"/>
+		</drop_group>
+		<drop_group name="AP_REWARDS_IKONI">
+			<drop item_id="186000063" chance="4.85" min_amount="1" max_amount="3"/>
+			<drop item_id="186000064" chance="4.85" min_amount="1" max_amount="3"/>
+			<drop item_id="186000065" chance="4.85" min_amount="1" max_amount="3"/>
+			<drop item_id="186000066" chance="4.85" min_amount="1" max_amount="3"/>
+		</drop_group>
+		<drop_group name="MEDAL">
+			<drop item_id="186000147" chance="3.85" min_amount="1" max_amount="2"/>
+			<drop item_id="186000242" chance="3.85" min_amount="1" max_amount="2"/>
+		</drop_group>
+		<drop_group name="VOLSH_KAMNI">
+			<drop item_id="166020000" chance="1.85" min_amount="1" max_amount="1"/>
+			<drop item_id="166030005" chance="1.85" min_amount="1" max_amount="1"/>
+		</drop_group>			
+	</npc_drop>
+	<npc_drop npc_id="233253"> <!-- last boss 1 -->
+		<drop_group name="" use_category="false">
+			<drop chance="15.0" item_id="182400001" max_amount="5000" min_amount="1"/>
+		</drop_group>
+		<drop_group name="AP_REWARDS_KORONI">
+			<drop item_id="186000051" chance="3.85" min_amount="1" max_amount="2"/>
+			<drop item_id="186000052" chance="3.85" min_amount="1" max_amount="2"/>
+			<drop item_id="186000053" chance="3.85" min_amount="1" max_amount="2"/>
+			<drop item_id="186000054" chance="3.85" min_amount="1" max_amount="2"/>
+		</drop_group>
+		<drop_group name="AP_REWARDS_CHASHI">
+			<drop item_id="186000055" chance="3.85" min_amount="1" max_amount="2"/>
+			<drop item_id="186000056" chance="3.85" min_amount="1" max_amount="2"/>
+			<drop item_id="186000057" chance="3.85" min_amount="1" max_amount="2"/>
+			<drop item_id="186000058" chance="3.85" min_amount="1" max_amount="2"/>
+		</drop_group>
+		<drop_group name="AP_REWARDS_PECHATI">
+			<drop item_id="186000059" chance="4.85" min_amount="1" max_amount="2"/>
+			<drop item_id="186000060" chance="4.85" min_amount="1" max_amount="2"/>
+			<drop item_id="186000061" chance="4.85" min_amount="1" max_amount="2"/>
+			<drop item_id="186000062" chance="4.85" min_amount="1" max_amount="2"/>
+		</drop_group>
+		<drop_group name="AP_REWARDS_IKONI">
+			<drop item_id="186000063" chance="4.85" min_amount="1" max_amount="3"/>
+			<drop item_id="186000064" chance="4.85" min_amount="1" max_amount="3"/>
+			<drop item_id="186000065" chance="4.85" min_amount="1" max_amount="3"/>
+			<drop item_id="186000066" chance="4.85" min_amount="1" max_amount="3"/>
+		</drop_group>
+		<drop_group name="MEDAL">
+			<drop item_id="186000147" chance="5.85" min_amount="1" max_amount="2"/>
+			<drop item_id="186000242" chance="6.85" min_amount="1" max_amount="2"/>
+		</drop_group>
+		<drop_group name="VOLSH_KAMNI">
+			<drop item_id="166020000" chance="1.85" min_amount="1" max_amount="1"/>
+			<drop item_id="166030005" chance="1.85" min_amount="1" max_amount="1"/>
+		</drop_group>			
+	</npc_drop>
+	<npc_drop npc_id="233254"> <!-- last boss 2 -->
+		<drop_group name="" use_category="false">
+			<drop chance="15.0" item_id="182400001" max_amount="5000" min_amount="1"/>
+		</drop_group>
+		<drop_group name="AP_REWARDS_KORONI">
+			<drop item_id="186000051" chance="3.85" min_amount="1" max_amount="2"/>
+			<drop item_id="186000052" chance="3.85" min_amount="1" max_amount="2"/>
+			<drop item_id="186000053" chance="3.85" min_amount="1" max_amount="2"/>
+			<drop item_id="186000054" chance="3.85" min_amount="1" max_amount="2"/>
+		</drop_group>
+		<drop_group name="AP_REWARDS_CHASHI">
+			<drop item_id="186000055" chance="3.85" min_amount="1" max_amount="2"/>
+			<drop item_id="186000056" chance="3.85" min_amount="1" max_amount="2"/>
+			<drop item_id="186000057" chance="3.85" min_amount="1" max_amount="2"/>
+			<drop item_id="186000058" chance="3.85" min_amount="1" max_amount="2"/>
+		</drop_group>
+		<drop_group name="AP_REWARDS_PECHATI">
+			<drop item_id="186000059" chance="4.85" min_amount="1" max_amount="2"/>
+			<drop item_id="186000060" chance="4.85" min_amount="1" max_amount="2"/>
+			<drop item_id="186000061" chance="4.85" min_amount="1" max_amount="2"/>
+			<drop item_id="186000062" chance="4.85" min_amount="1" max_amount="2"/>
+		</drop_group>
+		<drop_group name="AP_REWARDS_IKONI">
+			<drop item_id="186000063" chance="4.85" min_amount="1" max_amount="3"/>
+			<drop item_id="186000064" chance="4.85" min_amount="1" max_amount="3"/>
+			<drop item_id="186000065" chance="4.85" min_amount="1" max_amount="3"/>
+			<drop item_id="186000066" chance="4.85" min_amount="1" max_amount="3"/>
+		</drop_group>
+		<drop_group name="MEDAL">
+			<drop item_id="186000147" chance="5.85" min_amount="1" max_amount="2"/>
+			<drop item_id="186000242" chance="6.85" min_amount="1" max_amount="2"/>
+		</drop_group>
+		<drop_group name="VOLSH_KAMNI">
+			<drop item_id="166020000" chance="1.85" min_amount="1" max_amount="1"/>
+			<drop item_id="166030005" chance="1.85" min_amount="1" max_amount="1"/>
+		</drop_group>			
+	</npc_drop>
+</npc_drops>

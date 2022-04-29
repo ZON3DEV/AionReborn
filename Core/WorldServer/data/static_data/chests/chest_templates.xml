@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chest_templates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="chest_templates.xsd">
+	<chest npcid="701457">
+		<keyitem id="1" itemid="0" quantity="1"/>
+	</chest>
+    <chest npcid="217100">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Treasure Chest-->
+    <chest npcid="217101">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Treasure Chest-->
+    <chest npcid="217102">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Treasure Chest-->
+    <chest npcid="217103">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Treasure Chest-->
+    <chest npcid="217104">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Treasure Chest-->
+    <chest npcid="217105">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Oriel -->
+    <chest npcid="218874">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="218876">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="218878">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="218880">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="701519">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="701520">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="701521">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Pernon -->
+    <chest npcid="218882">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="218884">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="218886">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="218888">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- INSTANCES -->
+    <!-- Lower Abyss -->
+    <chest npcid="700462">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="700463">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="700464">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="700465">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="700466">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="700467">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="700468">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="700469">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="700470">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="700471">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- ATURAM SKY FORTRESS -->
+    <!-- Hariken's Supply Chest -->
+    <chest npcid="205494">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Popuchin's Document Chest -->
+    <chest npcid="730375">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Winged War Chest -->
+    <chest npcid="701477">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Golden Treasure Chest-->
+    <chest npcid="701480">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Golden Treasure Chest-->
+    <chest npcid="701481">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Golden Treasure Chest-->
+    <chest npcid="701482">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Golden Treasure Chest-->
+    <chest npcid="701483">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Golden Treasure Chest-->
+    <chest npcid="701484">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Golden Treasure Chest-->
+    <chest npcid="701485">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Golden Treasure Chest-->
+    <chest npcid="701486">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Golden Treasure Chest-->
+    <chest npcid="701487">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Golden Treasure Chest-->
+    <chest npcid="701488">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Golden Treasure Chest-->
+    <chest npcid="701489">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Upper Abyss -->
+    <!-- Roah -->
+    <chest npcid="700472">
+        <keyitem id="1" itemid="185000036" quantity="1"/>
+    </chest>
+    <chest npcid="700473">
+        <keyitem id="1" itemid="185000037" quantity="1"/>
+    </chest>
+    <chest npcid="700474">
+        <keyitem id="1" itemid="185000038" quantity="1"/>
+    </chest>
+    <!-- Asteria -->
+    <chest npcid="700475">
+        <keyitem id="1" itemid="185000033" quantity="1"/>
+    </chest>
+    <chest npcid="700476">
+        <keyitem id="1" itemid="185000034" quantity="1"/>
+    </chest>
+    <chest npcid="700477">
+        <keyitem id="1" itemid="185000035" quantity="1"/>
+    </chest>
+    <!-- Kysis -->
+    <chest npcid="700542">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="700560">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="700541">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Krotan -->
+    <chest npcid="700540">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="700559">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="700539">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Miren -->
+    <chest npcid="700544">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="700561">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="700543">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Taloc's Hollow -->
+    <chest npcid="700742">
+        <keyitem id="1" itemid="185000082" quantity="1"/>
+    </chest>
+    <!-- Haramel -->
+    <chest npcid="700829">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="700830">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="700831">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="700832">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="700853">
+        <keyitem id="1" itemid="185000103" quantity="1"/>
+        <keyitem id="2" itemid="185000107" quantity="3"/>
+    </chest>
+    <!-- Theobomos Lab -->
+    <chest npcid="700826">
+        <keyitem id="1" itemid="185000015" quantity="1"/>
+    </chest>
+    <!-- Abyssal Splinter -->
+    <chest npcid="700934">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="700860">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="700935">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="700936">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="700937">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="700938">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Esoterrace -->
+    <chest npcid="701023">
+        <keyitem id="1" itemid="185000110" quantity="1"/>
+    </chest>
+    <chest npcid="701022">
+        <keyitem id="1" itemid="185000111" quantity="1"/>
+    </chest>
+    <chest npcid="701027">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="701016">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="701025">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+	<chest npcid="701034">
+		<keyitem id="1" itemid="0" quantity="1"/>
+	</chest>
+    <!-- Crucible Challenge -->
+    <chest npcid="217758">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="217827">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="217828">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="217829">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="218571">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Tiamaranta Eye -->
+    <chest npcid="701388">
+        <keyitem id="1" itemid="185000114" quantity="1"/>
+    </chest>
+    <chest npcid="701389">
+        <keyitem id="1" itemid="185000115" quantity="1"/>
+    </chest>
+    <chest npcid="701390">
+        <keyitem id="1" itemid="185000116" quantity="1"/>
+    </chest>
+    <!-- Raksang -->
+    <chest npcid="701369">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="701370">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="701371">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="701372">
+        <keyitem id="1" itemid="185000113" quantity="1"/>
+    </chest>
+    <!-- Steel Rake Cabin -->
+    <chest npcid="700553">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="700554">
+        <keyitem id="1" itemid="185000076" quantity="1"/>
+    </chest>
+    <chest npcid="700562">
+	<keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Satra Treasure Hoard -->
+    <chest npcid="701460">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="701461">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="701462">
+        <keyitem id="1" itemid="185000118" quantity="1"/>
+    </chest>
+    <chest npcid="701463">
+        <keyitem id="1" itemid="185000118" quantity="1"/> <!-- 185000119 -->
+    </chest>
+    <!-- Tiamat StrongHold -->
+	<!-- CHEST DIVERS ELYOS -->
+	<!-- POETA CHEST -->
+	<chest npcid="211822">
+		<keyitem id="1" itemid="185000106" quantity="1"/>
+	</chest>
+	<!-- VERTERON CHEST -->
+	<chest npcid="211823">
+		<keyitem id="1" itemid="185000106" quantity="1"/>
+	</chest>
+	<!-- ELTNEN CHEST -->
+	<chest npcid="211801">
+		<keyitem id="1" itemid="185000106" quantity="1"/>
+	</chest>
+	<chest npcid="211859">
+		<keyitem id="1" itemid="185000106" quantity="1"/>
+	</chest>
+	<!-- HEIRON CHEST -->
+	<chest npcid="212339">
+		<keyitem id="1" itemid="185000106" quantity="1"/>
+	</chest>
+	<!-- THEOBOMOS CHEST -->
+	<chest npcid="211860">
+		<keyitem id="1" itemid="185000106" quantity="1"/>
+	</chest>
+	<!-- CHEST DIVERS ASMODIANS -->
+	<!-- ISHALGEN CHEST -->
+	<chest npcid="211822">
+		<keyitem id="1" itemid="185000106" quantity="1"/>
+	</chest>
+	<!-- ALTGARD CHEST -->
+	<chest npcid="211855">
+		<keyitem id="1" itemid="185000106" quantity="1"/>
+	</chest>
+	<!-- MORHEIM CHEST -->
+	<chest npcid="211856">
+		<keyitem id="1" itemid="185000106" quantity="1"/>
+	</chest>
+	<chest npcid="212928">
+		<keyitem id="1" itemid="185000106" quantity="1"/>
+	</chest>
+	<!-- BRUSTHONIN CHEST -->
+	<chest npcid="211857">
+		<keyitem id="1" itemid="185000106" quantity="1"/>
+	</chest>
+	<!-- BELUSLAN CHEST -->
+	<chest npcid="211858">
+		<keyitem id="1" itemid="185000106" quantity="1"/>
+	</chest>
+    <!-- Balaur Medal Box -->
+    <chest npcid="701501">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Stronghold Treasure Chest -->
+    <chest npcid="701527">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- The Hexway -->
+    <!-- Ancient Treasure Box -->
+    <chest npcid="701662">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Ancient Treasure Box -->
+    <chest npcid="701663">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Golden Treasure Box -->
+    <chest npcid="701664">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Unstable Splinter -->
+    <!-- Abyssal Treasure Chest -->
+    <chest npcid="701575">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- genesis Treasure Chest -->
+    <chest npcid="701576">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Abyssal Treasure Chest -->
+    <chest npcid="701577">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Abyssal Treasure Chest -->
+    <chest npcid="701578">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Abyssal Treasure Chest -->
+    <chest npcid="701579">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Abyssal Treasure Chest -->
+    <chest npcid="701580">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- pazuzu's Treasure Chest -->
+    <chest npcid="700861">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Sarpan -->
+    <!-- Crystal Treasure Chest -->
+    <chest npcid="701474">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Reian Treasure Chest -->
+    <chest npcid="701341">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Reian Treasure Chest -->
+    <chest npcid="701342">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Urugugu Treasure Chest -->
+    <chest npcid="701428">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Tiamaranta -->
+    <!-- Gurriki Treasure Chest -->
+    <chest npcid="701473">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Shugo Imperial Tomb -->
+    <!-- Crown Prince's Relics -->
+    <chest npcid="831124">
+        <keyitem id="1" itemid="185000128" quantity="1"/>
+    </chest>
+    <chest npcid="831124">
+        <keyitem id="1" itemid="185000129" quantity="1"/>
+    </chest>
+    <!-- Empress' Relics -->
+    <chest npcid="831123">
+        <keyitem id="1" itemid="185000128" quantity="1"/>
+    </chest>
+    <chest npcid="831123">
+        <keyitem id="1" itemid="185000129" quantity="1"/>
+    </chest>
+    <!-- Emperor's Relics -->
+    <chest npcid="831122">
+        <keyitem id="1" itemid="185000128" quantity="1"/>
+    </chest>
+    <chest npcid="831122">
+        <keyitem id="1" itemid="185000129" quantity="1"/>
+    </chest>
+    <!-- Special Box -->
+    <chest npcid="831373">
+        <keyitem id="1" itemid="185000128" quantity="3"/>
+    </chest>
+    <chest npcid="831373">
+        <keyitem id="1" itemid="185000129" quantity="3"/>
+    </chest>
+	<!-- Dark Poeta -->
+	<chest npcid="700510">
+		<keyitem id="1" itemid="0" quantity="1"/>
+	</chest>
+	<!-- Danuar Sanctuary -->
+    <chest npcid="233184">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="233185">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="233186">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="233190">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="233191">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="233192">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="233391">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+	<!-- Danuar Mysticarium -->
+    <chest npcid="233252">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+		<!-- Runadium -->
+	<chest npcid="701795">
+		<keyitem id="1" itemid="0" quantity="1"/>
+	</chest>
+	<!-- Steel Roza -->
+	<chest npcid="701815">
+		<keyitem id="1" itemid="0" quantity="1"/>
+	</chest>
+	<chest npcid="701828">
+		<keyitem id="1" itemid="0" quantity="1"/>
+	</chest>
+	<chest npcid="701830">
+		<keyitem id="1" itemid="0" quantity="1"/>
+	</chest>
+	<chest npcid="701831">
+		<keyitem id="1" itemid="0" quantity="1"/>
+	</chest>
+	<!-- Idgel Research Center -->
+    <chest npcid="230100">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="230101">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="230102">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="230103">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="230105">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="233273">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="233274">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="233275">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Ophidan Bridge -->
+    <chest npcid="231058">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+	<!-- Eternal Bastion -->
+    <chest npcid="701913">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="701914">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="701915">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="701916">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="701917">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+	<!-- Sauro Supply Base -->
+    <chest npcid="230847">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+	<!-- Denuary -->
+    <chest npcid="701795">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+	<!-- Void Cube -->
+    <chest npcid="701935">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="701936">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+	<!-- Rukibiku Circus Troop -->
+    <chest npcid="831575">
+        <keyitem id="1" itemid="185000163" quantity="1"/>
+    </chest>
+	<chest npcid="831745">
+        <keyitem id="1" itemid="185000184" quantity="1"/>
+    </chest>
+	<!-- Steel Roze -->
+	<chest npcid="701815">
+		<keyitem id="1" itemid="0" quantity="1"/>
+	</chest>
+<!-- Danuar Mysticarium -->
+    <chest npcid="230076">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Krotan Battle Fortress -->
+    <chest npcid="702028">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="702029">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="702030">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="702031">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Legion's Krotan Battle Fortress -->
+    <chest npcid="702288">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="702289">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="702290">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="702291">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Kysis Battle Fortress -->
+    <chest npcid="702032">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="702033">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="702034">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="702035">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Legion's Kysis Battle Fortress -->
+    <chest npcid="702292">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="702293">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="702294">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="702295">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Miren Battle Fortress -->
+    <chest npcid="702036">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="702037">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="702038">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="702039">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <!-- Legion's Miren Battle Fortress -->
+    <chest npcid="702296">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="702297">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="702298">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+    <chest npcid="702299">
+        <keyitem id="1" itemid="0" quantity="1"/>
+    </chest>
+</chest_templates>
