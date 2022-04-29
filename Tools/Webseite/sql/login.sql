@@ -1,0 +1,1 @@
+ALTER TABLE `account_data` ADD `pow_user_id` int(10) NOT NULL DEFAULT 0;

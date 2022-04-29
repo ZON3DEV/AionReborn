@@ -1,0 +1,21 @@
+{
+	"sProcessing":   "",
+	"sLengthMenu": "_MENU_On the page",
+	"sZeroRecords": "No entries",
+	"sInfo": "_START_ - _END_ of _TOTAL_",
+	"sInfoEmpty": "0 records",
+	"sInfoFiltered": "(filtered of _MAX_ records)",
+	"sInfoPostFix":  "",
+	"sSearch": "Search:",
+	"sUrl": "",
+	"oPaginate": {
+		"sFirst": "First",
+		"sPrevious": "&larr;",
+		"sNext": "&rarr;",
+		"sLast": "Last"
+	},
+	"oAria": {
+		"sSortAscending":  ": activate to sort column ascending",
+		"sSortDescending": ": activate to sort columns descending"
+	}
+}
