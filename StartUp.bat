@@ -1,3 +1,4 @@
+REM Mit diesem Skript starten alle drei Server mit einem Klick
 @ECHO off
 
 CLS
