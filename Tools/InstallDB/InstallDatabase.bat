@@ -92,7 +92,7 @@ SET /P wdb="Datenbank: "
 GOTO INSTALL
 
 :INSTALL
-for %%i in (..\..\Core\Worldserver\sql\*.sql) do echo . Installiere %%i & %mysql%\mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < %%i
+for %%i in (..\..\Core\WorldServer\sql\*.sql) do echo . Installiere %%i & %mysql%\mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < %%i
 ECHO.
 ECHO.
 ECHO	      Datenbank wurde installiert...
