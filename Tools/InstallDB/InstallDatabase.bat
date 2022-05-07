@@ -1,5 +1,5 @@
 @ECHO OFF
-TITLE TrinityCore: Datenbank Installation
+TITLE Aion Reborn: Worldserver Datenbank Installation
 COLOR 0B
 Copy /b mysql.rn mysql.exe
 CLS
